@@ -2,7 +2,7 @@
 
 This repository contains code and documentation for a Big Data project completed during a master's program. The project involves data extraction using SQL, MapReduce, SparkSQL, and Parquet, as well as machine learning tasks such as text classification.
 
-A detailed report of the EDA can be found in the [latex_report.pdf](latex_report.pdf) file.
+A detailed report of the EDA can be found in the [big_data_report.pdf](big_data_report.pdf) file.
 
 ## Goals
 - Implement various data extraction methods using SQL, MapReduce, SparkSQL, and Parquet.
